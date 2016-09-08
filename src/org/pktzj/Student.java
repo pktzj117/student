@@ -1,4 +1,4 @@
-
+package org.pktzj;
 public class Student {
 	String name;
 	Student(String name){
